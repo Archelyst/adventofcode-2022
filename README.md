@@ -7,3 +7,4 @@
 | [Day 3: Rucksacks](https://github.com/Tim-Erwin/adventofcode-2022/tree/main/python/day03)| ⭐ | ⭐ |
 | [Day 4: Overlap](https://github.com/Tim-Erwin/adventofcode-2022/tree/main/python/day04)| ⭐ | ⭐ |
 | [Day 5: Crane](https://github.com/Tim-Erwin/adventofcode-2022/tree/main/python/day05)| ⭐ | ⭐ |
+| [Day 6: Signals](https://github.com/Tim-Erwin/adventofcode-2022/tree/main/python/day06)| ⭐ | ⭐ |
