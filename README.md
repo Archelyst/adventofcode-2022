@@ -9,3 +9,4 @@
 | [Day 5: Crane](https://github.com/Tim-Erwin/adventofcode-2022/tree/main/python/day05)| ⭐ | ⭐ |
 | [Day 6: Signals](https://github.com/Tim-Erwin/adventofcode-2022/tree/main/python/day06)| ⭐ | ⭐ |
 | [Day 7: File System](https://github.com/Tim-Erwin/adventofcode-2022/tree/main/python/day07)| ⭐ | ⭐ |
+| [Day 8: Tree House](https://github.com/Tim-Erwin/adventofcode-2022/tree/main/python/day08)| ⭐ | ⭐ |
